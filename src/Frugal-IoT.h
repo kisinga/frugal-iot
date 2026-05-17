@@ -20,6 +20,7 @@
 //TO-ADD-CONTROL
 #include "control.h"
 #include "control_blinken.h"
+#include "control_ema.h"
 #include "control_gsheets.h"
 #include "control_hysterisis.h"
 #include "control_logger_fs.h"
