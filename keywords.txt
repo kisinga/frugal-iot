@@ -35,6 +35,7 @@ Sensor_Button	KEYWORD1
 Sensor_DHT	KEYWORD1
 Sensor_DS18B20	KEYWORD1
 Sensor_Float	KEYWORD1
+Sensor_Flow	KEYWORD1
 Sensor_HT	KEYWORD1
 Sensor_Health	KEYWORD1
 Sensor_LoadCell	KEYWORD1
